@@ -2,16 +2,16 @@
 
 This repository contains the files required for the LIFE4141 machine learning practical.
 
-Clone the repository into your working directory:
+Clone the repository for the LIFE4141 module into your working directory:
 
 ```
-git clone https://github.com/BioinformaticsMSc/LIFE4141_machine_learning_practical.git
+git clone https://github.com/BioinformaticsMSc/LIFE4141_2526.git 
 ```
 
-Navigate inside the cloned repository:
+Navigate inside the directory for this session, inside the cloned repository:
 
 ```
-cd LIFE4141_machine_learning_practical
+cd LIFE4141_2526/LIFE4141_machine_learning_practical
 ```
 
 
