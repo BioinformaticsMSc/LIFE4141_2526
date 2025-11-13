@@ -1,6 +1,6 @@
 # LIFE4141_machine_learning_practical
 
-This repository contains the files required for the LIFE4141 machine learning practical.
+This directory contains the files required for the LIFE4141 machine learning practical.
 
 Clone the repository for the LIFE4141 module into your working directory:
 
